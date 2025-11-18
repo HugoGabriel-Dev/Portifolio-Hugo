@@ -1,2 +1,5 @@
-# Portifolio-Hugo
-Projeto de apresentação por portifolio feito por mim, para consolidar minhas habilidades e conhecimentos
+# Proeeto *Portifolio*
+# Olá, eu sou o Hugo Gabriel! 👋
+
+### 📌 Projeto em destaque 
+- **PORTIFOLIO** → Prática de HTML,CSS e JavaScript com foco em fundamentos para projeto de apresentação de minha trajetória!.
